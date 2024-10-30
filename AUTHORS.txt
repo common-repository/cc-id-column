@@ -1,0 +1,5 @@
+This file contains the list of people involved in the development of CC-ID-Column along its history.
+
+Piotr Niewiadomski <http://piotr.press>
+
+Great thanks to Clearcode <https://clearcode.cc> for allowing releasing CC-ID-Column as free software!
